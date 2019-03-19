@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#039be5</color>
+    <color name="colorAccent">#039be5</color>
+
+
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+
+    <!-- other color -->
+    <color name="soft_grey">#EBEBEB</color>
+    <color name="soft_grey2">#DBDBDB</color>
+    <color name="grey">#666666</color>
+    <color name="list_background_pressed">#EBEBEB</color>
+    <color name="list_drawer_text_color">#607D8B</color>
+
+    <!-- optional prymary color -->
+    <color name="main_blue">#00AFEF</color>
+    <color name="main_red">#F44336</color>
+    <color name="main_green">#8BC34A</color>
+    <color name="main_yellow">#FFC107</color>
+
+    <!-- basic color -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <string-array name="arr_main_color_name">
+        <item>Light Blue</item>
+        
+        <item>Red</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Deep Purple</item>
+        <item>Indigo</item>
+        <item>Blue</item>
+        
+        <item>Light Blue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Green</item>
+        <item>Light Green</item>
+        <item>Lime</item>
+        
+        <item>Amber</item>
+        <item>Orange</item>
+        <item>Deep Orange</item>
+        <item>Grey</item>
+        <item>Brown</item>
+        <item>Black</item>
+        
+    </string-array>
+    <string-array name="arr_main_color_code">
+        <item>#00ADEE</item>
+        
+        <item>#F44336</item>
+        <item>#EC407A</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#2196F3</item>
+        
+        <item>#03A9F4</item>
+        <item>#00BCD4</item>
+        <item>#009688</item>
+        <item>#4CAF50</item>
+        <item>#8BC34A</item>
+        <item>#CDDC39</item>
+        
+        <item>#FFC107</item>
+        <item>#FF9800</item>
+        <item>#FF5722</item>
+        <item>#607D8B</item>
+        <item>#795548</item>
+        <item>#000000</item>
+    </string-array>
+
+</resources>

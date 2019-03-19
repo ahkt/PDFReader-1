@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/main">
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/pdf_drawer"
+            android:title="PDF Files" />
+        <item
+            android:id="@+id/nav_browser"
+            android:icon="@drawable/ic_menu_files"
+            android:title="From External" />
+        <item
+            android:id="@+id/nav_bookmark"
+            android:icon="@drawable/ic_menu_bookmark"
+            android:title="Bookmark" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_nav_setting"
+            android:title="Setting" />
+    </group>
+    <group android:id="@+id/second">
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/ic_nav_facebook"
+            android:title="@string/title_nav_social" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_privacy"
+            android:title="@string/title_nav_privacy" />
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="@string/title_nav_email" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_nav_about"
+            android:title="@string/title_nav_about" />
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/ic_other_apps"
+            android:title="@string/title_nav_app" />
+    </group>
+
+    <group android:id="@+id/others">
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_nav_rate"
+            android:title="@string/title_nav_rate" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/share"
+            android:title="@string/title_nav_share" />
+
+    </group>
+
+</menu>

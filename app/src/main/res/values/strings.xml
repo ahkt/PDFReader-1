@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-7639642705673081/1092774458</string>
+
+    <!--Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-7639642705673081/2569507650</string>
+
+
+    <string name="app_name">eBook PDF Viewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_edit_note">Detail</string>
+    <string name="app_tagline">Your pocket pdf viewer</string>
+    
+    <string name="about_text">dot PDT is an application view your pdf file anytime and anywhere.</string>
+
+    <string name="privacypolicy">http://www.zhaapps.com/privacypolicy/</string>
+    <string name="facebook">https://www.facebook.com/zhaapps</string>
+
+
+    <string name="title_nav_privacy">Privacy Policy</string>
+    <string name="title_nav_rate">Rate us</string>
+    <string name="title_nav_share">Share us</string>
+    <string name="title_nav_about">About us</string>
+    <string name="title_nav_app">Other Apps</string>
+
+    <string name="version">Version: 2.0</string>
+    <string name="developer">Zha Apps</string>
+
+    <string name="website">http://www.zhaapps.com/</string>
+    <string name="email">mail@zhaapps.com</string>
+    <string name="title_nav_social">Facebook</string>
+    <string name="title_nav_email">Email</string>
+
+    <string name="store_name">market://search?q=pub:Zha+Apps</string>
+    <string name="Store_name_1">http://play.google.com/store/apps/developer?id=Zha+Apps</string>
+
+
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Pdf Files</item>
+        <item>Setting</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_menu_files</item>
+        <item>@drawable/ic_menu_setting</item>
+    </array>
+    
+	<!--     String for file chooser -->
+    <string name="folder">Folder</string>
+    <string name="parentDirectory">Parent Directory</string>
+    <string name="fileSize">File Size</string>
+    <string name="currentDir">Dir</string>
+    
+	<!--     dialog close confirmation -->
+	<string name="d_close_title">Close Application</string>
+	<string name="d_close_message">Are you sure want to close this application?</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

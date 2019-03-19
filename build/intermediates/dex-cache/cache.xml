@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\025a09cc7e181efb9456f7ac21054347d9c82adc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fe400ebcd4480a8ad7c24772d26ac9f28a9a84e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\5e05fa8e490be94b4d4fefdc04ee8822e7eea0b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d560fe0472e743306435bf24be13ea67a62c242a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GTechProjects\Projects\PDFReader\plugpdf\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8e6630263eb715a98056c7449b604b8329def0b">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_adb338c8161604ce7b06b2725ed6572845b070f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\56a3ee21ba95cfa46837b8f4e517d93f2ea1807c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b3890eeb480daaf830466be5e93f3953b1bf8b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\d177eaf2e661e2b27f07ce6bf12c5a31b9266ede\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e94aef466819e7504cf1a8db377e1fa77825bfa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\b8bbd75c0b5ed363014684bc7040a1f365535068\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_348baefb3c9a15438a6d87cb5920a67f6b99e91c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\7a1e71721463317e2bfebb3c5447ae3aadcf6b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_203fab7ff731fb7cf31dee4fa4a4d2a4e1b9be44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\9b96b0fec349f1974c6bd952ec7a959411cf12d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cb53e42616b73df6f6796b662dc601619e1f4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\fc61ed41f887f3243a6e0c02038858fc1a3b7de9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_175543bc08258b1edfc15d799adb7565fad8bf76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AswinBalaji\.android\build-cache\41042eb1d8927d79f79e261f09e60e187b33190a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2caa90c11fc6559f3718fcd10011f1ac631a76cf">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c2e16946b11f9318ae65ff01001d0db0ff385ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\GTechProjects\Projects\PDFReader\plugpdf\build\intermediates\bundles\default\libs\plugpdfcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ae83edb488dc4057a30a9df280a88bfed621791">
+        <dex dex="D:\GTechProjects\Projects\PDFReader\app\build\intermediates\transforms\dex\debug\folders\1000\8\plugpdfcore_1d01e55b71e5b57de8d11478a8830151fab38bec\classes.dex" />
+    </item>
+
+</items>
